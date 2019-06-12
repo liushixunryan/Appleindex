@@ -1,0 +1,23 @@
+.daohang{
+
+    width: 100%;
+    margin: 0px auto;
+}
+.xiahuaxian{
+
+    text-decoration: none;
+}
+.el-header {
+    padding-top: 2%;
+    color: #333;
+    text-align: center;
+}
+.el-main {
+    color: #333;
+    text-align: center;
+    line-height: 180%;
+}
+.el-footer{
+    color: #333;
+    text-align: center;
+}
